@@ -6,8 +6,8 @@ dist/
 .cache
 .data
 .wrangler
-# .env
-# .env.*
+.env
+.env.*
 dev-dist
 *.tsbuildinfo
 # wrangler.toml
